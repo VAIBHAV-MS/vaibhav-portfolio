@@ -1,16 +1,16 @@
-# Hi, I'm Vaibhav 👋
+# Hi, I'm Vaibhav M S👋
 
 Passionate AI & ML graduate with knowledge in Python, SQL, Machine Learning, Deep Learning and Database Systems.
 
-💻 Software Developer | Machine Learning Enthusiast  
-📍 India  
+💻 AI engineer | Machine Learning Enthusiast  
+📍 India ,Karnataka 
 
 ---
 
 ## 🚀 Projects
 - Stroke Detection using AI (MRI Images)
 - Crop Recommendation System
-- Portfolio Website
+- Student Data Base Management
 
 ---
 
@@ -20,4 +20,6 @@ Python | Machine Learning | Flask | OpenCV | HTML | CSS | Git
 ---
 
 ## 📫 Contact
-Email: yourmail@gmail.com
+Email: vaibhavvms8@gmail.com
+
+phone: 6366254798
